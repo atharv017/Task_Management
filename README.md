@@ -19,7 +19,7 @@ Developed a full-stack task management system using **React.js** and **Bootstrap
 Go to the project directory
 
 ```bash
-  cd fronttask
+  cd front_task
 ```
 
 Install dependencies
