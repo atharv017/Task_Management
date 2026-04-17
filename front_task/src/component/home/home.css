@@ -1,0 +1,95 @@
+.todo{
+    width: 100%;
+    min-height:100vh;
+    max-height: auto;
+    position: relative;
+}
+
+/* .todo-input{
+    border:none;
+    outline: none;
+}
+
+.todo-input-div{
+    
+    border-radius:5px;
+    box-shadow: rgb(0, 0, 0,0.35) 0px 5px 15px;
+} */
+
+/* #textarea{
+    display:none;
+} */
+
+/* .todo-btn{
+    background-color: rgb(170, 45, 45);;
+    border-radius: 5px;
+    color:white !important;
+    font-weight:bold;
+    border: none;
+    outline:none;
+} */
+
+.task-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2px;
+    padding: 2px;
+}
+
+.task-inputs{
+    display: flex;
+    flex-direction: column;
+    width: 35vw;
+    padding: 2px;
+    border-radius: 5px;
+    box-shadow: rgb(0, 0, 0,0.35) 0px 5px 15px;
+
+}
+
+.task{
+    border: none;
+    outline: none;
+    text-align: center;
+}
+
+#textarea{
+    display: none;
+}
+
+.card-cont{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns:repeat(4,350px); 
+    grid-template-rows: auto;
+    /* grid-template-columns: 350px 350px 350px 350px; */
+    row-gap: 15px;
+    column-gap: 20px;
+
+}
+
+.cad{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: rgb(0, 0, 0,0.35) 0px 5px 15px;
+}
+
+.button{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.btn{
+    width: 80px;
+    padding: 2px;
+}
+
+
