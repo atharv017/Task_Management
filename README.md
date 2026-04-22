@@ -41,9 +41,9 @@ Default port:
 
 ## Screenshots
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](screenshot/image1.png)
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](screenshot/img2.png)
 
 
 ## Server
